@@ -1,7 +1,7 @@
 # <img src="https://i.ibb.co/vBDDNpd/earthquake.png" width="37px" /> KD QUAKE
 
 <p align="center">
-  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.6%2B-blue.svg" alt="Python Version"></a>
+  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python Version"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="License"></a>
   <a href="https://pypi.org/project/pyTelegramBotAPI/"><img src="https://img.shields.io/badge/pyTelegramBotAPI-4.16.1-ff69b4.svg" alt="pyTelegramBotAPI Version"></a>
   <a href="https://pypi.org/project/requests/"><img src="https://img.shields.io/badge/Requests-2.31.0-orange.svg" alt="Requests Version"></a>
