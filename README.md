@@ -1,5 +1,10 @@
 # <img src="https://i.ibb.co/vBDDNpd/earthquake.png" width="37px" /> KD QUAKE
 
+ | 🧋To access the bot [click here](http://t.me/KDQUAKEBOT).                                                     |
+|------------------------------------------------------------|
+| **Thanks for the support!**.|
+
+
 <p align="center">
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python Version"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="License"></a>
